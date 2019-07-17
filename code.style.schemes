@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <PHPCodeStyleSettings>
+          <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+        </PHPCodeStyleSettings>
+      </value>
+    </option>
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+  </component>
+</application>

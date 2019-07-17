@@ -1,0 +1,44 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="IntroduceParameter" />
+  <action id="Laravel.ExtractPartialView" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="ShowColorPicker">
+    <keyboard-shortcut first-keystroke="shift ctrl number_sign" />
+  </action>
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+</keymap>
